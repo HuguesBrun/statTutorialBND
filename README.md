@@ -19,7 +19,7 @@
 
 
 ## Testing the environement:
-1. In a clean directory, download the [test notebook](https://github.com/HuguesBrun/statTutorialBND/blob/master/InstallTest.ipynb)
+1. In a clean directory, download the [test notebook](http://w3.iihe.ac.be/~pvanlaer/InstallTest.ipynb)
 2. Start the jupyter notebook (with the command `jupyter notebook`), you should see that in your web browser:
  ![screenshot](https://github.com/HuguesBrun/statTutorialBND/blob/master/image/jupyterImg.png)
 3. Click on the notebook InstallTest.ipynb to open it
