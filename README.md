@@ -1,9 +1,9 @@
 # How to install the environement needed for the tutorial:
 
 ## Tools used in the tutorial:
-* NumPy,SciPy: package for scientific computing with Python
-* iPython: an interactive shell, we'll be working inside of a web interface called Jupyter (or IPython) Notebooks
-* Matplotlib: usefull ploting library
+* `NumPy`,`SciPy`: package for scientific computing with Python
+* `iPython`: an interactive shell, we'll be working inside of a web interface called Jupyter (or IPython) Notebooks
+* `Matplotlib`: usefull ploting library
 
 ## Installation of the environement 
 
