@@ -12,7 +12,7 @@
 
 ### *Option 2:* run the evironement from the virtual box
 1. Download and install the virtual box needed for your operating system: [VirtualBox](https://www.virtualbox.org/)
-2. Download the environement OVA from this link 
+2. Download the environement OVA from [this link](http://w3.iihe.ac.be/~pvanlaer/Stats.ova) 
 3. Import it in the virtual box (File>Import)
 4. Start the virtual box (in case needed, the password is `stat`)
 5. In a terminal, run the command `jupyter notebook` : the tree directory should appear in Firefox
