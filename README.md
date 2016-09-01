@@ -7,10 +7,10 @@
 
 ## Installation of the environement 
 
-### *Option 1* using Anaconda (tested on Linux and MacOS)
+### *Option 1:* using Anaconda (tested on Linux and MacOS)
 1. Download and install on your computer Anaconda from [this site](https://www.continuum.io/downloads): all the needed librairies will be included 
 
-### *Option 2*: run the evironement from the virtual box
+### *Option 2:* run the evironement from the virtual box
 1. Download and install the virtual box needed for your operating system: [VirtualBox](https://www.virtualbox.org/)
 2. Download the environement OVA from this link 
 3. Import it in the virtual box (File>Import)
