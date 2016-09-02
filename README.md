@@ -8,7 +8,8 @@
 ## Installation of the environement 
 
 ### *Option 1:* using Anaconda (tested on Linux and MacOS)
-1. Download and install on your computer Anaconda from [this site](https://www.continuum.io/downloads): all the needed librairies will be included 
+1. Download and install on your computer Anaconda from [this site](https://www.continuum.io/downloads): all the needed librairies will be included (install the version with Python 3.5) 
+2. Open an new shell: you should now be able to run the command `jupyter notebook` to launch the notebook
 
 ### *Option 2:* run the evironement from the virtual box
 1. Download and install the virtual box needed for your operating system: [VirtualBox](https://www.virtualbox.org/)
