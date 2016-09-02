@@ -24,4 +24,4 @@
 2. Start the jupyter notebook (with the command `jupyter notebook`), you should see that in your web browser:
  ![screenshot](https://github.com/HuguesBrun/statTutorialBND/blob/master/image/jupyterImg.png)
 3. Click on the notebook InstallTest.ipynb to open it
-4. Check that the code in every single cell can be executed (go in the cell and then execute it by typing `Enter + Shift`  
+4. Check that the code in every single cell can be executed (go in the cell and then execute it by typing `Enter + Shift`)
