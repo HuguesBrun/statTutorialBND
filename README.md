@@ -25,3 +25,9 @@
  ![screenshot](https://github.com/HuguesBrun/statTutorialBND/blob/master/image/jupyterImg.png)
 3. Click on the notebook InstallTest.ipynb to open it
 4. Check that the code in every single cell can be executed (go in the cell and then execute it by typing `Enter + Shift`)
+
+## Notebooks for Saturday September 3rd practical:
+1. Are on GitHub at the following links:
+  * Short introduction to Python [here](https://github.com/HuguesBrun/statTutorialBND/blob/master/Short%20Introduction%20to%20Python%20.ipynb)
+  * Begining of the statistical tutorial [here](https://github.com/HuguesBrun/statTutorialBND/blob/master/Statistical%20Analysis%20Tutorial.ipynb)
+  * *Note:* All the GitHub package can be downloaded using this git command in a terminal `git clone https://github.com/HuguesBrun/statTutorialBND.git`
